@@ -1,6 +1,8 @@
-const cats =["Milo", "Otis", "Garfield"]
-beforeEach(function () {
-  cats.length = 0;
+let cats = ["Milo", "Otis", "Garfield"]
 
-  cats.push("Milo", "Otis", "Garfield");
-});
+  
+
+
+
+ 
+
